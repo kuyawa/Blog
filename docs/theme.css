@@ -1,4 +1,5 @@
 html, body { margin: 0; padding: 6%; font: 300 1em "helvetica", "sans-serif"; color: #333; }
 h1,h2,h3,h4,h5,h6 { font-weight: 300; }
 entry { display: block; padding: 4px 0; }
+entry time { color: #888; font-size: 80%; }
 entry i { color: #888; }
