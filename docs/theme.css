@@ -1,2 +1,3 @@
 html, body { margin: 0; padding: 12%; font: 300 1em "helvetica", "sans-serif"; color: #333; }
-entry i { display: block; padding: 4px; color: #AAA; }
+entry i { display: block; padding: 4px; }
+entry i { color: #888; }
